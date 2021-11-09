@@ -9,3 +9,12 @@ div.landing {
   background-position: center;
   background-image: url(../img/landing.jpg);
 }
+
+img {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
