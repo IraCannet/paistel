@@ -10,10 +10,16 @@ div.landing {
   background-image: url(../img/landing.jpg);
 }
 
-img {
+img.logo-image-landing {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 20%;
+}
+
+.insta-icon {
+  width: 30px;
+  margin: 0 auto;
+  display: block;
 }
